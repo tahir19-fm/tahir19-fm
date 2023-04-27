@@ -1,4 +1,4 @@
-<img src="[https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/nerd-face_1f913.png](https://static-00.iconduck.com/assets.00/nerd-face-emoji-2048x2048-ulowexgs.png)" alt="nerd-face" width="50"/> Welcome to my Profile <img src="[https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/nerd-face_1f913.png](https://static-00.iconduck.com/assets.00/nerd-face-emoji-2048x2048-ulowexgs.png)" alt="nerd-face" width="50"/>
+<img src="[https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/nerd-face_1f913.png](https://static-00.iconduck.com/assets.00/nerd-face-emoji-2048x2048-ulowexgs.png)"  width="50"/> Welcome to my Profile <img src="[https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/nerd-face_1f913.png](https://static-00.iconduck.com/assets.00/nerd-face-emoji-2048x2048-ulowexgs.png)" width="50"/>
 This is the place where you can find out more about me, my skills and my projects. Here are some details:
 
 About Me
