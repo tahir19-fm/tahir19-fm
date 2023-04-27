@@ -1,26 +1,32 @@
-Hi, I'm Tahir Majid
-I'm a student pursuing a career in Android development. Here's a little bit about what you can expect to find in my GitHub:
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/nerd-face_1f913.png" alt="nerd-face" width="50"/> Welcome to my Profile <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/nerd-face_1f913.png" alt="nerd-face" width="50"/>
+This is the place where you can find out more about me, my skills and my projects. Here are some details:
 
-Projects
+About Me
 
-I am currently working on various Android app projects, ranging from basic apps to more complex projects that utilize multiple technologies. All of my projects can be found in the "Repositories" tab of my profile.
+HELLO I'M TAHIR MAJID
+👨‍💻 I'm a student and an aspiring Android developer.
+
+💡 I love to explore new technologies and programming languages.
+
+🔭 I’m currently working on developing my skills in Java and Kotlin.
 
 Skills
+💻 Java, Kotlin, Python
 
-I have experience in programming languages such as Java and Kotlin, and I am proficient in Data Structures and Algorithms. I am also familiar with the latest tools and technologies used in Android development.
+📊 Data Structures and Algorithms
 
-Collaboration
+🔧 Git, GitHub, Android Studio
 
-I'm open to collaborating on projects with other developers who are passionate about creating user-friendly apps that solve real-world problems. If you're interested in working together, feel free to reach out to me via LinkedIn or email.
+Projects
+🚀 Project Check my repositories for the projects i have worked on.
 
-Learning
 
-I'm always eager to learn new skills and technologies. I'm currently working on improving my skills in Android development, and I plan to expand my knowledge into other areas of software development as well.
+Contact Me
+📧 tahir19.fm@gmail.com
 
-Contact
+🔗 www.linkedin.com/in/tahir-majid-213a2222a
 
-Feel free to connect with me on LinkedIn or email me at [your email address]. I'm looking forward to hearing from you!
 
-Email: tahir19.fm@gmail.com
 
-Thanks for visiting my GitHub profile!
+Conclusion
+Thank you for taking the time to read my profile. I'm always eager to learn and collaborate, so please don't hesitate to reach out if you have any questions or if you'd like to work on a project together!
