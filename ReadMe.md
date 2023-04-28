@@ -1,7 +1,7 @@
 ![ee7a411661f469ba26f64e2aadcc4698](https://user-images.githubusercontent.com/102905297/235125015-20e6ee11-81e9-46dc-ba3c-136e77c56a2a.jpg)
 <h1 align="center"><h1 align="center">Hi 👋, I'm Tahir</h1>
 <h3 align="center">A passionate Android developer from India</h3>
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif)">
 
 - 🔭 I’m currently working on [AirLyft](https://github.com/MohdImran001/airlyft-user-app)
 
