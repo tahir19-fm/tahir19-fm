@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tahir</h1>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+<h1 align="center"><h1 align="center">Hi 👋, I'm Tahir</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahir19-fm&label=Profile%20views&color=0e75b6&style=flat" alt="tahir19-fm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahir19-fm" alt="tahir19-fm" /></a> </p>
 
