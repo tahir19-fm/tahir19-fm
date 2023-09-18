@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [AirLyft](https://github.com/MohdImran001/airlyft-user-app)
+- 🔭 I’m currently working on [InfowareIndia](https://github.com/MohdImran001/airlyft-user-app)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
